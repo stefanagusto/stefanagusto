@@ -1,4 +1,4 @@
-[# Stefan Agusto Hutapea
+# Stefan Agusto Hutapea
 
 AI Product Manager on the founding team at **WPH Digital** (Singapore / Jakarta). Previously led AI quality initiatives and merchant camera tools at **Grab**, and Paylater core features at **Indodana**. Computer Engineering graduate from Universitas Indonesia (Cum Laude).
 
